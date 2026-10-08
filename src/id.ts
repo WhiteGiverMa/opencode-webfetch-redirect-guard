@@ -1,4 +1,4 @@
-export const PLUGIN_ID = "webfetch-redirect-guard"
+export const PLUGIN_ID = "o3p.tool.webfetch-redirect-guard"
 
 /**
  * Header prefix used to identify this plugin in native tool errors.
